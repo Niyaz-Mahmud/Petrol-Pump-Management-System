@@ -1,0 +1,200 @@
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Customer.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Invoice.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Customers.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Invoice_History.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Dashboard.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Fuel.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Home.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Login.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.mAtmBoot.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Properties.Resources.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Staff.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Staff.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Supplies.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.exe
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.pdb
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe.config
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.pdb
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CopyComplete
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.cashier.resources
+C:\Users\niyaz\Downloads\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.CashierInvoice.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe.config
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.pdb
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.cashier.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.CashierInvoice.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Customer.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Invoice.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Customers.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Invoice_History.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Dashboard.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Fuel.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Home.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Login.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.mAtmBoot.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Properties.Resources.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Staff.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Staff.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Supplies.resources
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.exe
+C:\Users\niyaz\Desktop\455\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.pdb
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe.config
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.pdb
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.cashier.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.CashierInvoice.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Customer.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Invoice.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Customers.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Invoice_History.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Dashboard.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Fuel.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Home.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Login.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.mAtmBoot.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Properties.Resources.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Staff.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Staff.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Supplies.resources
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.exe
+C:\Users\niyaz\Desktop\25Dec2023\40%\Updated 21-12 T\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.pdb
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe.config
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.pdb
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\Guna.UI2.dll
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.AssemblyReference.cache
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.cashier.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.CashierInvoice.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Customer.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Invoice.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Customers.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Invoice_History.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Dashboard.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Fuel.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Home.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Login.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.mAtmBoot.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Properties.Resources.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Staff.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Staff.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Supplies.resources
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.GenerateResource.cache
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CoreCompileInputs.cache
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CopyComplete
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.exe
+D:\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.pdb
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe.config
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.pdb
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\Guna.UI2.dll
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.AssemblyReference.cache
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.cashier.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.CashierInvoice.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Customer.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Invoice.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Customers.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Invoice_History.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Dashboard.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Fuel.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Home.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Login.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.mAtmBoot.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Properties.Resources.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Staff.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Staff.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Supplies.resources
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.GenerateResource.cache
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CoreCompileInputs.cache
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CopyComplete
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.exe
+E:\working\Cs\Updated\Petrol Pump Management System\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.pdb
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe.config
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.pdb
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\Guna.UI2.dll
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.AssemblyReference.cache
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.cashier.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.CashierInvoice.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Customer.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Invoice.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Customers.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Invoice_History.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Dashboard.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Fuel.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Home.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Login.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.mAtmBoot.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Properties.Resources.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Staff.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Staff.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Supplies.resources
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.GenerateResource.cache
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CoreCompileInputs.cache
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CopyComplete
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.exe
+E:\working\modify\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.pdb
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe.config
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.pdb
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\Guna.UI2.dll
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.AssemblyReference.cache
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.cashier.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.CashierInvoice.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Customer.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Invoice.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Customers.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Invoice_History.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Dashboard.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Fuel.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Home.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Login.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.mAtmBoot.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Properties.Resources.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Staff.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Staff.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Supplies.resources
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.GenerateResource.cache
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CoreCompileInputs.cache
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CopyComplete
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.exe
+E:\working\Defense\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.pdb
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe.config
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.exe
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\PetrolPumpManagementSystem2.pdb
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\bin\Debug\Guna.UI2.dll
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.AssemblyReference.cache
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.cashier.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.CashierInvoice.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Customer.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Invoice.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Customers.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Invoice_History.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Dashboard.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Fuel.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Home.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Login.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.mAtmBoot.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Properties.Resources.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Staff.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.Staff.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.M_Supplies.resources
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.GenerateResource.cache
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CoreCompileInputs.cache
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem.csproj.CopyComplete
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.exe
+E:\working\Modif\Petrol Pump Management System\Petrol Pump Management System\PetrolPumpManagementSystem2\obj\Debug\PetrolPumpManagementSystem2.pdb

@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2A2C00E8-C19F-441D-887C-D140B665B791}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PetrolPumpManagementSystem2</RootNamespace>
+    <AssemblyName>PetrolPumpManagementSystem2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier.Designer.cs">
+      <DependentUpon>cashier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashierInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashierInvoice.Designer.cs">
+      <DependentUpon>CashierInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer.Designer.cs">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice.Designer.cs">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="M_Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="M_Customers.Designer.cs">
+      <DependentUpon>M_Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="M_Invoice_History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="M_Invoice_History.Designer.cs">
+      <DependentUpon>M_Invoice_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="M_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="M_Dashboard.Designer.cs">
+      <DependentUpon>M_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="M_Fuel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="M_Fuel.Designer.cs">
+      <DependentUpon>M_Fuel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mAtmBooth..cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mAtmBooth..Designer.cs">
+      <DependentUpon>mAtmBooth..cs</DependentUpon>
+    </Compile>
+    <Compile Include="M_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="M_Staff.Designer.cs">
+      <DependentUpon>M_Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="M_Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="M_Home.Designer.cs">
+      <DependentUpon>M_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff.Designer.cs">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="M_Supplies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="M_Supplies.Designer.cs">
+      <DependentUpon>M_Supplies.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="cashier.resx">
+      <DependentUpon>cashier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashierInvoice.resx">
+      <DependentUpon>CashierInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer.resx">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice.resx">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="M_Customers.resx">
+      <DependentUpon>M_Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="M_Invoice_History.resx">
+      <DependentUpon>M_Invoice_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="M_Dashboard.resx">
+      <DependentUpon>M_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="M_Fuel.resx">
+      <DependentUpon>M_Fuel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="M_Home.resx">
+      <DependentUpon>M_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mAtmBooth..resx">
+      <DependentUpon>mAtmBooth..cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="M_Staff.resx">
+      <DependentUpon>M_Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff.resx">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="M_Supplies.resx">
+      <DependentUpon>M_Supplies.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
